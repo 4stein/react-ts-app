@@ -1,1 +1,1 @@
-Demo: https://4stein.github.io/react-ts-app/ 
+Demo: https://4stein.github.io/react-ts-app/
